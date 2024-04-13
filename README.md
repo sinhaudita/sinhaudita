@@ -1,3 +1,4 @@
+![logo](https://github.com/sinhaudita/sinhaudita/blob/main/gbanner.png)
 <h1 align="center">Hi 👋, I'm Udita Sinha</h1>
 <h3 align="center">A Frontend Developer passionate about crafting beautiful websites!</h3>
 
