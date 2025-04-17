@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinhaudita&label=Profile%20views&color=0e75b6&style=flat" alt="sinhaudita" /> </p>
 
-- 🌱 I’m currently dived into **Frontend Development**
+- 🌱 I’m currently dived into **Full Stack Web Development**
 
 - 📫 How to reach me **sinhaudita12@gmail.com**
 
