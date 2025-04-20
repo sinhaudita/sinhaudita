@@ -26,9 +26,12 @@ I'm a passionate **MERN stack developer** currently diving deep into the world o
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/udita sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udita sinha" height="30" width="40" /></a>
-<a href="mailto:your.email@example.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40" />
+<a href="https://linkedin.com/in/udita-sinha-aa8b11267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/udita-sinha-aa8b11267" height="30" width="40" /></a>
+<a href="mailto:sinhaudita12.com" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="sinhaudita12@gmail.com" height="30" width="40" />
+</a>
+<a href="https://discord.com/users/sinhaudi" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
 </a>
 
 </p>
