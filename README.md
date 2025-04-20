@@ -1,22 +1,20 @@
 ![logo](https://github.com/sinhaudita/sinhaudita/blob/main/gbanner.png)
 <h1 align="center">Hi 👋, I'm Udita Sinha</h1>
-<h3 align="center">A Frontend Developer passionate about crafting beautiful websites!</h3>
+<h3 align="center">A tech enthusiast passionate about Coding, Collaborating, Innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinhaudita&label=Profile%20views&color=0e75b6&style=flat" alt="sinhaudita" /> </p>
 
 
 
-I'm a passionate **MERN stack developer** currently diving deep into the world of **AI/ML**. I love building innovative solutions to real-world problems and constantly exploring new ideas and technologies.
+- 💻 I am a dedicated MERN stack developer
 
+- 🤖 I am currently diving into AI/ML
+
+- 🌍 I am passionate about building innovative solutions for real-world problems  
+- 📫 Reach me through **sinhaudita12@gmail.com**
 ---
 
-## 🛠️ Tech Stack
-- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+)
-- **Backend:** Node.js, Express.js, MongoDB
-- **Tools & Platforms:** Git, VS Code
-- **Currently Learning:** Python, Machine Learning
 
----
 
 
 
@@ -27,9 +25,7 @@ I'm a passionate **MERN stack developer** currently diving deep into the world o
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/udita-sinha-aa8b11267" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/udita-sinha-aa8b11267" height="30" width="40" /></a>
-<a href="mailto:sinhaudita12@gmail.com" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="sinhaudita12@gmail.com" height="30" width="40" />
-</a>
+
 <a href="https://discord.com/users/sinhaudi" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
 </a>
@@ -72,5 +68,7 @@ I'm a passionate **MERN stack developer** currently diving deep into the world o
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinhaudita&show_icons=true&locale=en&layout=compact" alt="sinhaudita" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinhaudita&show_icons=true&locale=en" alt="sinhaudita" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinhaudita&" alt="sinhaudita" /></p>
 
 [![An image of @sinhaudita's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sinhaudita)](https://holopin.io/@sinhaudita)
