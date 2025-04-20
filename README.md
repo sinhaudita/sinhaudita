@@ -4,9 +4,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinhaudita&label=Profile%20views&color=0e75b6&style=flat" alt="sinhaudita" /> </p>
 
-- 🌱 I’m currently dived into **Full Stack Web Development**
+# 👋 Hi there! I'm [Your Name]
 
-- 📫 How to reach me **sinhaudita12@gmail.com**
+I'm a passionate **MERN stack developer** currently diving deep into the world of **AI/ML**. I love building innovative solutions to real-world problems and constantly exploring new ideas and technologies.
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+)
+- **Backend:** Node.js, Express.js, MongoDB
+- **Tools & Platforms:** Git, VS Code
+- **Currently Learning:** Python, Machine Learning
+
+---
+
+## 🌐 Let's Connect
+- 📫 [sinhaudita12@gmail.com]
+- 💼 [[LinkedIn Profile](https://www.linkedin.com/in/udita-sinha-aa8b11267)]
+
+> “Stay curious. Keep building. Solve boldly.”
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
